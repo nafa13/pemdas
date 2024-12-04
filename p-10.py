@@ -75,6 +75,7 @@ for i,j in data_panen.items():
     else:
         print(f'lokasi {i} dalam kodisi baik')
 # nrpadd
+# 152023192
 
 
 
