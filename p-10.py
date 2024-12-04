@@ -74,7 +74,8 @@ for i,j in data_panen.items():
         print(f"lokasi {i} memerlukan perhatian khusus")
     else:
         print(f'lokasi {i} dalam kodisi baik')
-# nrpadd
+# naufal
+# 152023192
 # 152023192
 
 
